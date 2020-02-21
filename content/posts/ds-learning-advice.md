@@ -1,16 +1,18 @@
 +++
-content_img_path = ""
+content_img_path = "/images/New Year Goals Social Media Post-1.png"
 date = 2020-02-21T05:00:00Z
 draft = true
 excerpt = ""
 layout = "post"
 subtitle = ""
-thumb_img_path = ""
+thumb_img_path = "/images/New Year Goals Social Media Post.png"
 title = "DS Learning Advice"
 
 +++
-To become a data scientist advice: Focus on Python (including Numpy, Pandas, and Jupyter notebooks).
+To become a data scientist advice:
 
+* Focus on Python (including Numpy, Pandas, and Jupyter notebooks).
+* Building a web scraper for Facebook Marketplace
 * Try to focus on 1 main project. Extend something that you did in class. It can be difficult if you are mostly doing scattered problem sets in a variety of areas. For self-learners, one of the risks is jumping around too much and starting scattered tutorials across a range of sites, but never going deep enough with any one thing. Pick 1 Kaggle competition, personal project, or extension of a school project and stick with it. I can think of a few times I continued extended a class project for months after the class ended, because I was so absorbed in it. This is a great way to learn.
 * Start with decision tree ensembles (random forests and gradient boosting machines) on structured data sets. I have deeply conflicted feelings on this topic. While it’s possible to do these in Python using sklearn, I think R still handles structured datasets and categorical variables better. However, if you are only going to master one language, I think Python is the clear choice, and most people can’t focus on learning 2 new languages at the same time.
 * Then move on to deep learning using the Python library [Keras](https://www.fast.ai/2017/01/03/keras/). To quote Andrew Ng, deep learning is [“the new electricity”](https://www.fast.ai/2016/10/11/fortune/) and a very exciting, high impact area to be working in.
@@ -35,7 +37,6 @@ Online courses are an amazing resource. You can learn from the world’s best da
 
 * Andrew Ng’s classic [machine learning Coursera class](https://www.coursera.org/learn/machine-learning) (He does a great job explaining the algorithms, although don’t spend too much time on Octave/MATLAB. It’s probably better to do the assignments in Python, [like this](http://www.johnwittenauer.net/machine-learning-exercises-in-python-part-1/).)
 * The fast.ai [Practical Deep Learning for Coders](http://course.fast.ai/) course. Disclosure: I helped create this course, and we’ve gotten lots of [positive feedback](http://course.fast.ai/testimonials.html) from students. The only prerequisite is 1 year of coding experience.
-* Udacity’s [data science sequence](https://www.udacity.com/courses/data-science).
 * Udacity’s [Web Development Course](https://www.udacity.com/course/web-development--cs253). Technically you don’t need to know this to be a data scientist, but [becoming a better software developer makes you a better data scientist](https://quomodocumque.wordpress.com/2017/02/26/mathematicians-becoming-data-scientists-should-you-how-to/), and it is so useful to know how to build your own web apps.
 
 As one of the questioners highlighted above, the amount of information, tutorials, and courses available online can be overwhelming. One of the biggest risks is jumping from thing to thing, without ever completing one or sticking with a topic long enough to learn it. It’s important to find a course or project that is “good enough”, and then stick with it. Something that can be helpful with this is finding or _starting a meet-up group_ to work through an online course together.
