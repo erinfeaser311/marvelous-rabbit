@@ -40,7 +40,7 @@ I enjoyed all of the above blog posts and also, I don’t think any of them are 
 
 Jeremy had been suggesting for years that I should start blogging, and I’d respond “I don’t have anything to say.” This wasn’t true. What I meant was that I didn’t feel confident, and I felt like the things I could write had already been written about by people with more expertise or better writing skills than me.
 
-It turns out that is fine! Your posts don’t have to be earth-shattering or even novel to be read and shared. My writing skills were rather weak when I started (part of the reason I chose to study math and CS in college was because those courses requried the least amount of writing and also no labs), but my skills are improving with time.
+It turns out that is fine! Your posts don’t have to be earth-shattering or even novel to be read and shared. My writing skills were rather weak when I started (part of the reason I chose to study math and CS in college was because those courses required the least amount of writing and also no labs), but my skills are improving with time.
 
 Here are some more tips to help you start your first post:
 
