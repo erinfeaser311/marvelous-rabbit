@@ -37,4 +37,5 @@ fields:
   config:
     required: true
 pages:
+- content/posts/ds-learning-advice.md
 - content/posts/what-isphotography.md
