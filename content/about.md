@@ -15,6 +15,6 @@ I graduated from Shippensburg University in 2018 with dual degrees in Informatio
 
 I'm using this blog to document my journey over 2020 (and potentially beyond) into the finer points of data science, more specifically machine learning and deep learning. Yay! I'll leave you with one of my favorite quotes:
 
-> I don't know what I'm doing but I know I'm doing it really, really well. <cite>Any Dwyer</cite>
+> I don't know what I'm doing but I know I'm doing it really, really well. <cite>Andy Dwyer</cite>
 
 _Thank You for reading!_
