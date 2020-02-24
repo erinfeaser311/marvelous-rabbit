@@ -37,6 +37,7 @@ fields:
   config:
     required: true
 pages:
+- content/posts/being-a-working-mom.md
 - content/posts/blog-post-ideas.md
 - content/posts/ds-learning-advice.md
 - content/posts/how-to-set-up-a-blogging-site-in-literally-1-minute-with-stackbit-github-and-netlify.md
