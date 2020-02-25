@@ -44,7 +44,42 @@ I applied to Georiga Tech and UT. Hopefully I hear back from one of them! Goal a
 
 Found [here](https://trello.com/b/k8sgSuRr/machine-learning-courses-progress "here")! Here is my plan:
 
-1. 
+ 1. The Python Tutorial
+ 2. Google's Machine Learning Crash Course
+ 3. Google's Data Prep and ML Crash Course
+ 4. Google's Clustering Course
+ 5. Google's Testing and Debugging in ML Course
+ 6. Google's Recommendation Systems Course
+ 7. fast.ai - ML course
+ 8. fast.ai - Deep Learning course
+ 9. Python for Entrepreneurs
+10. (Maybe) deeplearning.ai's Deep Learning Specialization course
+
+DataQuest:
+
+1. Data Scientist path
+2. Data Engineering path
+
+Kaggle:
+
+1. Enter one competition
+2. Potentially complete their micro-challenges (if I feel like Dataquest ain't doing it for me)
+
+Math:
+
+[https://www.coursera.org/specializations/mathematics-machine-learning](https://www.coursera.org/specializations/mathematics-machine-learning "https://www.coursera.org/specializations/mathematics-machine-learning")
+
+GCP:
+
+Practice Programming Skillz - [https://techdevguide.withgoogle.com/paths/foundational/](https://techdevguide.withgoogle.com/paths/foundational/ "https://techdevguide.withgoogle.com/paths/foundational/")
+
+DS - [https://techdevguide.withgoogle.com/paths/machine-learning/](https://techdevguide.withgoogle.com/paths/machine-learning/ "https://techdevguide.withgoogle.com/paths/machine-learning/")
+
+GCP - DS in the Cloud - [https://techdevguide.withgoogle.com/paths/cloud/sequence-3/](https://techdevguide.withgoogle.com/paths/cloud/sequence-3/gcp-products-described-in-4-words-or-less/# "https://techdevguide.withgoogle.com/paths/cloud/sequence-3/gcp-products-described-in-4-words-or-less/#")
+
+Next year: Scala, Go, JavaScript (and Tensorflow.js)
+
+The above needs refined. I'll be refining it in the days to come!
 
 ## Start blogging
 
