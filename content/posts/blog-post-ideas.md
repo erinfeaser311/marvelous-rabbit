@@ -52,3 +52,9 @@ Here are some more tips to help you start your first post:
 * [What would have helped you a year ago? What would have helped you a week ago?](https://jvns.ca/blog/2016/05/22/how-do-you-write-blog-posts/)
 * If you are a woman in NYC, Chicago, or San Francisco, I recommend joining your local chapter of [Write/Speak/Code](http://www.writespeakcode.com/chapters/), a group that encourages women software developers to write blog posts, speak at conferences, and contribute to open source.
 * Get angry. The catalyst that finally got me to start writing was when someone famous said something that made me angry. So angry that I had to explain all the ways his thinking was wrong.
+* A [data.gov](http://data.gov/) series--exploring [data.gov](http://data.gov/) data
+* Something new and cool
+* Finance and personal finance and debt and investments -- data exploration
+* Interviews with experts in different fields with how they see using data science
+* Dashboards and building dashboards
+* Data science and IoT
