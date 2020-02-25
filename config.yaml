@@ -1,12 +1,12 @@
 ---
-title: Stackbit Ampersand Theme
+title: Erin Feaser
 baseURL: "/"
 params:
   layout_style: grid
   palette: black
   header:
-    title: Ampersand
-    logo_img: images/logo.png
+    title: Erin Feaser
+    logo_img: "/images/name_logo.png"
     has_nav: true
   footer:
     content: "&copy; All rights reserved."
