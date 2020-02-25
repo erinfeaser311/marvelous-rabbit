@@ -37,6 +37,7 @@ fields:
   config:
     required: true
 pages:
+- content/posts/an-analysis-of-the-top-100-movies-of-all-time.md
 - content/posts/being-a-working-mom.md
 - content/posts/blog-post-ideas.md
 - content/posts/ds-learning-advice.md
