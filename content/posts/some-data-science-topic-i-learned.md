@@ -10,3 +10,5 @@ title = "Some Data Science Topic I learned"
 
 +++
 [https://towardsdatascience.com/questions-96667b06af5](https://towardsdatascience.com/questions-96667b06af5 "https://towardsdatascience.com/questions-96667b06af5")
+
+[https://github.com/datacamp/datacamp-light](https://github.com/datacamp/datacamp-light "https://github.com/datacamp/datacamp-light")
