@@ -1,7 +1,7 @@
 +++
 content_img_path = "/images/New Year Goals Social Media Post-2.png"
 date = 2020-02-21T05:00:00Z
-excerpt = ""
+excerpt = "Setting actually attainable goals for 2020, what they are, and how I plan to accomplish them. Read on!"
 layout = "post"
 subtitle = "And how I plan to actually accomplish them this time."
 thumb_img_path = "/images/New Year Goals Social Media Post-3.png"
