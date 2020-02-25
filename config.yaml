@@ -6,7 +6,7 @@ params:
   palette: black
   header:
     title: Erin Feaser
-    logo_img: "/images/name_logo.png"
+    logo_img: "/images/erinf_site.png"
     has_nav: true
   footer:
     content: Erin Feaser 2020&copy; All rights reserved.
