@@ -1,6 +1,11 @@
 {
   "links": [
     {
+      "title": "OneProfile",
+      "icon": "fa-address-book",
+      "url": "https://erinfeaser.oneprofile.info/"
+    },
+    {
       "type": "linkedin",
       "title": "LinkedIn",
       "icon": "fa-linkedin",
