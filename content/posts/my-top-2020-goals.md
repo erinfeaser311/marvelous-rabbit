@@ -67,19 +67,17 @@ Kaggle:
 
 Math:
 
-[https://www.coursera.org/specializations/mathematics-machine-learning](https://www.coursera.org/specializations/mathematics-machine-learning "https://www.coursera.org/specializations/mathematics-machine-learning")
+* [https://www.coursera.org/specializations/mathematics-machine-learning](https://www.coursera.org/specializations/mathematics-machine-learning "https://www.coursera.org/specializations/mathematics-machine-learning")
 
 GCP:
 
-Practice Programming Skillz - [https://techdevguide.withgoogle.com/paths/foundational/](https://techdevguide.withgoogle.com/paths/foundational/ "https://techdevguide.withgoogle.com/paths/foundational/")
+* Practice Programming Skillz - [https://techdevguide.withgoogle.com/paths/foundational/](https://techdevguide.withgoogle.com/paths/foundational/ "https://techdevguide.withgoogle.com/paths/foundational/")
+* DS - [https://techdevguide.withgoogle.com/paths/machine-learning/](https://techdevguide.withgoogle.com/paths/machine-learning/ "https://techdevguide.withgoogle.com/paths/machine-learning/")
+* GCP - DS in the Cloud - [https://techdevguide.withgoogle.com/paths/cloud/sequence-3/](https://techdevguide.withgoogle.com/paths/cloud/sequence-3/gcp-products-described-in-4-words-or-less/# "https://techdevguide.withgoogle.com/paths/cloud/sequence-3/gcp-products-described-in-4-words-or-less/#")
 
-DS - [https://techdevguide.withgoogle.com/paths/machine-learning/](https://techdevguide.withgoogle.com/paths/machine-learning/ "https://techdevguide.withgoogle.com/paths/machine-learning/")
+_Next year: Scala, Go, JavaScript (and Tensorflow.js)_
 
-GCP - DS in the Cloud - [https://techdevguide.withgoogle.com/paths/cloud/sequence-3/](https://techdevguide.withgoogle.com/paths/cloud/sequence-3/gcp-products-described-in-4-words-or-less/# "https://techdevguide.withgoogle.com/paths/cloud/sequence-3/gcp-products-described-in-4-words-or-less/#")
-
-Next year: Scala, Go, JavaScript (and Tensorflow.js)
-
-The above needs refined. I'll be refining it in the days to come!
+**The above needs refined. I'll be refining it in the days to come!**
 
 ## Start blogging
 
