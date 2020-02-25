@@ -109,3 +109,5 @@ If you are in the Harrisburg area and interested, you can join our group [here](
 ### P.S. Finding the best budgeting / wealth tracking tool possible
 
 Whether that means building it myself (spreadsheet + dashboarding tool), using something spreadsheet-related like Tiller Money, or a budgeting software like YNAB.
+
+I also have some ideas to build a tool to get recommendations from Facebook Marketplace emailed to me or send to me in a text!
