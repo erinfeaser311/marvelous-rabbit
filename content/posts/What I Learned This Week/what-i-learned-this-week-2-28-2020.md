@@ -63,6 +63,14 @@ Went over the key terms in an ML model (labels, feature, etc.) and simple linear
 
 ### Multi-class N
 
-Research into [https://docs.microsoft.com/en-us/learn/certifications/azure-data-scientist](https://docs.microsoft.com/en-us/learn/certifications/azure-data-scientist "https://docs.microsoft.com/en-us/learn/certifications/azure-data-scientist"), or azure ai engineer, or azure data engineer, or google cloud data engineer
+AWS big Data since I already have it scheduled
+
+GCP Data Engineer
+
+Azure Data Engineer
+
+Azure Data Scientist
+
+Azure AI Engineer
 
 Intro to SQL - [https://www.kaggle.com/learn/intro-to-sql](https://www.kaggle.com/learn/intro-to-sql "https://www.kaggle.com/learn/intro-to-sql")
