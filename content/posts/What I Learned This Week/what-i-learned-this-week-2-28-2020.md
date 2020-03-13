@@ -6,39 +6,63 @@ excerpt = ""
 layout = "post"
 subtitle = ""
 thumb_img_path = ""
-title = "What I Learned This Week - 3/13/2020"
+title = "What I Learned This Week - 3/20/2020"
 
 +++
 Machine Learning Crash Course - [https://developers.google.com/machine-learning/crash-course/ml-intro](https://developers.google.com/machine-learning/crash-course/ml-intro "https://developers.google.com/machine-learning/crash-course/ml-intro")
 
-## Framing
+## 3/12/20
 
-## Descending into ML
+### Framing
 
-## Reducing Loss
+### Descending into ML
 
-## First Steps with TF
+Went over the key terms in an ML model (labels, feature, etc.) and simple linear regression and the MSE.
 
-## Generalization
+## 3/13/20
 
-## Training and Test Sets
+### Reducing Loss
 
-## Validation Set
+### First Steps with TF
 
-## Representation
+## 3/14/20
 
-## Feature Crosses
+### Generalization
 
-## Regularization: Simplicity
+### Training and Test Sets
 
-## Logistic Regression
+### Validation Set
 
-Research into [https://docs.microsoft.com/en-us/learn/certifications/azure-data-scientist](https://docs.microsoft.com/en-us/learn/certifications/azure-data-scientist "https://docs.microsoft.com/en-us/learn/certifications/azure-data-scientist")
+## 3/15/20
+
+### Representation
+
+## 3/16/20
+
+### Feature Crosses
+
+## 3/17/20
+
+### Regularization: Simplicity
+
+### Logistic Regression
+
+## 3/18/20
+
+### Classification
+
+## 3/19/20
+
+### Regularization: Sparcity
+
+### Neural Networks
+
+## 3/20/20
+
+### Training Neural Nets
+
+### Multi-class N
+
+Research into [https://docs.microsoft.com/en-us/learn/certifications/azure-data-scientist](https://docs.microsoft.com/en-us/learn/certifications/azure-data-scientist "https://docs.microsoft.com/en-us/learn/certifications/azure-data-scientist"), or azure ai engineer, or azure data engineer, or google cloud data engineer
 
 Intro to SQL - [https://www.kaggle.com/learn/intro-to-sql](https://www.kaggle.com/learn/intro-to-sql "https://www.kaggle.com/learn/intro-to-sql")
-
-[https://wiki.python.org/moin/TimeComplexity](https://wiki.python.org/moin/TimeComplexity "https://wiki.python.org/moin/TimeComplexity")
-
-Read first 5 sections:
-
-[https://runestone.academy/runestone/books/published/pythonds/BasicDS/Objectives.html](https://runestone.academy/runestone/books/published/pythonds/BasicDS/Objectives.html)
