@@ -9,11 +9,11 @@ thumb_img_path = ""
 title = "Life Goals"
 
 +++
-Love my career / become executive  
+Love my career / become executive / own own company?  
   
 Become part-time real estate agent  
   
-Visit 5 countries  
+Visit 5 countries (New Zealand, Switzerland, Norway, France, Egypt)  
   
 Visit 15 national parks (that I choose)  
   
@@ -21,11 +21,11 @@ Build our own house
   
 Run for local government / get involved in politics / government  
   
-Write my own open-source library  
+Write my own open-source library or publish a package  
   
 Make something / start own business  
   
-Learn a lamguage  
+Learn a language  
   
 Learn an instrument  
   
@@ -53,6 +53,4 @@ Build something thing with IoT
   
 Create my own online course  
   
-Budget -- create own budget / wealth tracker  
-  
-Allbirds
+Budget -- create own budget / wealth tracker
