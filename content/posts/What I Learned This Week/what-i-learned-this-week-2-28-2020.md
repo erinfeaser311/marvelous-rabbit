@@ -1,76 +1,30 @@
 +++
-content_img_path = ""
-date = 2020-03-13T04:00:00Z
+content_img_path = "/images/Erin Feaser - Intro to Machine Learning.png"
+date = 2020-03-30T04:00:00Z
 draft = true
-excerpt = ""
+excerpt = "The Ultimate Kaggle Micro-course Challenge (to myself)"
 layout = "post"
-subtitle = ""
-thumb_img_path = ""
-title = "What I Learned This Week - 3/20/2020"
+subtitle = "Learning goals for this week, this month, and extra tidbits "
+thumb_img_path = "/images/Erin Feaser - Intro to Machine Learning.png"
+title = "What I Learned This Week - 3/30/2020 to 4/5/2020"
 
 +++
-Machine Learning Crash Course - [https://developers.google.com/machine-learning/crash-course/ml-intro](https://developers.google.com/machine-learning/crash-course/ml-intro "https://developers.google.com/machine-learning/crash-course/ml-intro")
+This week I'm going to be focus on going on a deep-dive of Kaggle Micro-courses--I just completed their Intro to Machine Learning Course and it was really great. I loved how quick and practical it was. My biggest hang-up with online courses in the DS / ML world is that so much of the time you spend on either theory or "projects" that aren't applicable in the real world or on the job. I can tell you the amount of times at my job I've had to analyze app ratings is pretty much nada. So here are my goals for this week and then for this month. I'm also including some additional courses not related to DS / ML I'll be taking this month, because well I have other interests too, duh.
 
-## 3/12/20
+## This Week
 
-### Framing
+1. Kaggle's [Intermediate Machine Learning Course](https://www.kaggle.com/learn/intermediate-machine-learning)
+2. Kaggle's [Deep Learning Course](https://www.kaggle.com/learn/deep-learning)
+3. Kaggle's [Game AI and Reinforcement Learning Course](https://www.kaggle.com/learn/intro-to-game-ai-and-reinforcement-learning)
+4. Kaggle's[ Pandas Course](https://www.kaggle.com/learn/pandas) (as a refresher)
+5. Kaggle's [Feature Engineering Course](https://www.kaggle.com/learn/feature-engineering)
+6. Kaggle's [Machine Learning Explainability Course](https://www.kaggle.com/learn/machine-learning-explainability)
 
-### Descending into ML
+## This Month (April)
 
-Went over the key terms in an ML model (labels, feature, etc.) and simple linear regression and the MSE.
-
-## 3/13/20
-
-### Reducing Loss
-
-### First Steps with TF
-
-## 3/14/20
-
-### Generalization
-
-### Training and Test Sets
-
-### Validation Set
-
-## 3/15/20
-
-### Representation
-
-## 3/16/20
-
-### Feature Crosses
-
-## 3/17/20
-
-### Regularization: Simplicity
-
-### Logistic Regression
-
-## 3/18/20
-
-### Classification
-
-## 3/19/20
-
-### Regularization: Sparcity
-
-### Neural Networks
-
-## 3/20/20
-
-### Training Neural Nets
-
-### Multi-class N
-
-AWS big Data since I already have it scheduled
-
-GCP Data Engineer
-
-Azure Data Engineer
-
-Azure Data Scientist
-
-Azure AI Engineer
-
-Intro to SQL - [https://www.kaggle.com/learn/intro-to-sql](https://www.kaggle.com/learn/intro-to-sql "https://www.kaggle.com/learn/intro-to-sql")
+1. Real Python's [Functional Programming Course](https://realpython.com/courses/functional-programming-python/)
+2. Real Python's Publishing a Python Package Course
+3. Complete up to Step 4 in DataQuest's Data Scientist in Python track
+4. Complete Google's Machine Learning Crash Course
+5. Complete Google's Clustering Course
+6. Complete Google's Recommendation System's Course
