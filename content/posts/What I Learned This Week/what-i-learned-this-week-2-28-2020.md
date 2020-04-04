@@ -14,11 +14,11 @@ This week I'm going to be focusing on going on a deep-dive of Kaggle Micro-cours
 
 ## This Week
 
-1. Kaggle's [Intermediate Machine Learning Course](https://www.kaggle.com/learn/intermediate-machine-learning)
-2. Kaggle's [Feature Engineering Course](https://www.kaggle.com/learn/feature-engineering)
-3. Kaggle's [Deep Learning Course](https://www.kaggle.com/learn/deep-learning)
-4. Kaggle's [Machine Learning Explainability Course](https://www.kaggle.com/learn/machine-learning-explainability)
-5. Kaggle's[ Pandas Course](https://www.kaggle.com/learn/pandas) (as a refresher)
+1. Kaggle's [Intermediate Machine Learning Course](https://www.kaggle.com/learn/intermediate-machine-learning) (Saturday)
+2. Kaggle's [Feature Engineering Course](https://www.kaggle.com/learn/feature-engineering) (Saturday)
+3. Kaggle's [Deep Learning Course](https://www.kaggle.com/learn/deep-learning) (Sunday)
+4. Kaggle's [Machine Learning Explainability Course](https://www.kaggle.com/learn/machine-learning-explainability) (Monday)
+5. Kaggle's[ Pandas Course](https://www.kaggle.com/learn/pandas) (as a refresher) (Tuesday)
 6. Kaggle's [Game AI and Reinforcement Learning Course](https://www.kaggle.com/learn/intro-to-game-ai-and-reinforcement-learning)
 
 ## This Month (April)
@@ -34,7 +34,33 @@ This week I'm going to be focusing on going on a deep-dive of Kaggle Micro-cours
 
 Of course, this is very tentative because this depends on how much I can actually accomplish in April. But here is what I'd like to accomplish in May anyway, for planning purposes:
 
-1. 
+1. Finish DataQuest's Data Scientist in Python Track
+2. 
+
+## And The Following Month While We Are At It (June)
+
+1. Finish DataQuest's Data Engineer Track
+
+## July
+
+1. Fast.ai
+
+## August
+
+1. GCP Engineer
+2. Javascript
+
+Also deep dive into Tensorflow, Pytorch, Keras? one of the months
+
+An R refresher would be good
+
+Data structures course
+
+Algorithms course
+
+Python using 10 apps? Python for Entrepreneurs? More Basic Comp Sci stuff?
+
+Rust? Julia? Scala? Go?
 
 A secondary interest of mine is personal finance and investing (my second major in college) so I'd like to also complete this online course on [Asset Allocation](https://www.theinvestorspodcast.com/asset-allocation-video-course/) because I'm starting to build a portfolio outside of my 401k and Roth IRA and just feel like I could use a good refresh.
 
