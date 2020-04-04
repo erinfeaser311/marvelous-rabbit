@@ -62,6 +62,8 @@ Python using 10 apps? Python for Entrepreneurs? More Basic Comp Sci stuff?
 
 Rust? Julia? Scala? Go?
 
+A SQL refresher!
+
 A secondary interest of mine is personal finance and investing (my second major in college) so I'd like to also complete this online course on [Asset Allocation](https://www.theinvestorspodcast.com/asset-allocation-video-course/) because I'm starting to build a portfolio outside of my 401k and Roth IRA and just feel like I could use a good refresh.
 
 I'll be updating this post throughout the week with edits when I accomplish something, and then at the end of the week with the week's successes / missteps / potential improvements!
