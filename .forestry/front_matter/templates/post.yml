@@ -37,6 +37,7 @@ fields:
   config:
     required: true
 pages:
+- content/posts/Goals/2020-bucket-list.md
 - content/posts/Goals/career-goals.md
 - content/posts/Goals/graduate-school.md
 - content/posts/Goals/life-goals.md
